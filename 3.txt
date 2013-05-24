@@ -1,1 +1,3 @@
 Explain what a branch is, in your own words
+
+A branch is a working context. I can use branches to work in parallel on different features.
